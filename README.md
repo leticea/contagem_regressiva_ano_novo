@@ -8,7 +8,7 @@
 <br>
 
 <p align="center">
-  <img alt="contagem" src=".github/image.PNG">
+  <img alt="contagem" src=".github/image.png">
 </p>
 
 
